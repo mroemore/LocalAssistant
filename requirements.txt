@@ -1,0 +1,11 @@
+pyaudio
+webrtcvad
+numpy
+mistralai
+tts
+os
+asyncio
+threading
+torch
+whisper
+git+https://github.com/openai/whisper.git
